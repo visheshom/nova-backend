@@ -1,3 +1,5 @@
 flask
 flask-cors
 groq
+gunicorn==21.2.0
+python-dotenv
